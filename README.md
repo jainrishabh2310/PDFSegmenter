@@ -23,7 +23,7 @@ Basic knowledge of running Spring Boot applications.
 
 # Setup Instructions
 1.Clone the repository:
-git clone https://github.com/yourusername/PDFGEN.git
+git clone https://github.com/jainrishabh2310/PDFGEN.git
 cd PDFGEN
 
 2.Build the Project:
